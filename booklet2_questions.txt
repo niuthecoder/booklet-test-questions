@@ -1,0 +1,37 @@
+4. .	Variables or methods declared with access modifier private are accessible only to methods of the class in which they’re declared.
+A. Q6: When a method terminates, the values of its local variables are ________. 
+B. Q6: When a method terminates, the values of its local variables are ________. 
+C. 
+
+D. Q6: When a method terminates, the values of its local variables are ________. 
+
+13. .	The UML models operations by listing the operation name followed by a set of parentheses. A plus sign (+) in front of the operation name indicates that the operation is a public.
+A. a.	The UML models a parameter of an operation by listing the parameter name, followed by a colon and the parameter value between the parentheses after the operation name.
+B. a.	The UML models a parameter of an operation by listing the parameter name, followed by a colon and the parameter value between the parentheses after the operation name.
+C. Q14: Which of the following statements is true? 
+D. a.	The UML models a parameter of an operation by listing the parameter name, followed by a colon and the parameter value between the parentheses after the operation name.
+
+15. .	Most classes you’ll use in Java programs must be imported explicitly.
+A. b.	There’s a special relationship between classes that are compiled in the same directory. By default, such classes are considered to be in the same package—known as the default package.
+B. c.	Classes in the same package are implicitly imported into main.
+C. d.	An import declaration is not required when one class in a package uses another in the same package.
+D. ANS: c. 
+
+21. .	If a class does not define constructors, the compiler provides a default constructor with no parameters.
+A. c.	The UML models constructors in the third compartment of a class diagram.
+B. d.	To distinguish a constructor from a class’s operations, the UML places the word “constructor” between double quotes before the constructor’s name.
+C. c.	The UML models constructors in the third compartment of a class diagram.
+D. ANS: d. 
+
+21. .	their default values.
+A. 	
+B. ANS: c. 
+C. 	
+D. Q23: Which of the following statements is false? 
+
+4. NS:  d. 
+A. a.	Each object (instance) of the class shares the class’s instance variables.
+B. b.	Most instance-variable declarations are preceded with the keyword public, which is an access modifier.
+C. a.	Each object (instance) of the class shares the class’s instance variables.
+D. b.	Most instance-variable declarations are preceded with the keyword public, which is an access modifier.
+
